@@ -1,5 +1,10 @@
 ## Hi there 👋
+![Static Badge](https://img.shields.io/badge/Brody-blue)
+![Static Badge](https://img.shields.io/badge/%E4%BD%A0%E5%A5%BD-read)
+![Static Badge](https://img.shields.io/badge/Hello-red)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Brody090)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brody090&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Brody090/Brody090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
