@@ -17,8 +17,9 @@
 ### 🔥 我的代表项目
 | 项目名称 | 技术栈 | 项目介绍 |
 | ---- | ---- | ---- |
-| [NewYear 新年倒计时](https://github.com/Brody090/NewYear) | TypeScript | 课余开发的新年倒计时小工具，简单实用的前端小项目 |
+| [新年倒计时](https://github.com/Brody090/NewYear) | TypeScript | 课余开发的新年倒计时小工具，简单实用的前端小项目 |
 | [考试监考系统](https://github.com/Brody090/exam-proctor-system) | Python | 为参赛开发的考试监考系统，轻量易用的自动化监考桌面项目 |
+| [个人主页](https://github.com/Brody090/echo-homepage) | HTML | 一个课余时间开发的个人介绍页 |
 <!--
 **Brody090/Brody090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
