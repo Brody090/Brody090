@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Brody
-![Static Badge](https://img.shields.io/badge/Brody-blue)
-![Static Badge](https://img.shields.io/badge/%E4%BD%A0%E5%A5%BD-read)
-![Static Badge](https://img.shields.io/badge/Hello-red)
+![Static Badge](https://img.shields.io/badge/Brody-blue) 
+![Static Badge](https://img.shields.io/badge/%E4%BD%A0%E5%A5%BD-read) 
+![Static Badge](https://img.shields.io/badge/Hello-red) 
 
 一名高一编程爱好者，课余时间做自己感兴趣的编程小项目，主打一个「以兴趣驱动开发」✨
 - 📚 目前主攻：TypeScript、Python
